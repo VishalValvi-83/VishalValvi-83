@@ -10,7 +10,8 @@
 
 ## Contribution 
 
-![snake gif](https://github.com/VishalValvi-83/VishalValvi-83/blob/output/contributions.svg)
+<p align="center" ><a href="https://github.com/VishalValvi-83"><img src="https://github.com/VishalValvi-83/VishalValvi-83/blob/output/contributions.svg">
+</a></p>
 
 <br>
 <br>
