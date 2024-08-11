@@ -8,9 +8,10 @@
   </a>
 </p>
 
-  <a href="https://github.com/VishalValvi-83">
-    <img src="contributions.svg" />
-  </a>
+## Contribution 
+
+![snake gif](https://github.com/VishalValvi-83/VishalValvi-83/blob/output/github-contribution-grid-snake.svg)
+
 
 <br>
 <br>
@@ -25,10 +26,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&theme=shadow_blue&layout=compact"width="50%"/> 
 </p>  
 
----
-<a href="https://github.com/VishalValvi-83/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalValvi-83&repo=github-readme-stats&theme=shadow_green" />
-</a>
 
 
 ### <p align="center">Stats</p>
