@@ -1,23 +1,31 @@
-<p align="center">
-  <a href="https://github.com/VishalValvi-83/readme-typing-svg">
+ 𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬 C𝐨𝐮𝐧𝐭  <img height="15px" src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
+
+<p style="background-image: url('https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=header&reversal=false'); background-repeat: no-repeat;" align="center">
+  <a  href="https://github.com/VishalValvi-83/readme-typing-svg">
     <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;PROGRAMMER;CURRENTLY%20AND%20ALWAYS%20LEARNING%20NEW%20THINGS&font=Righteous%20Code&center=true&width=550&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /> -->
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER%20👩🏻‍💻;PROGRAMMER%20👩🏻‍💻;ALWAYS%20LEARNING%20NEW%20THINGS&;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Bona+Nova+SC&size=25&center=true&vCenter=true&color=FFF&width=550&height=200&duration=4000&pause=1050&lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER%20👩🏻‍💻;PROGRAMMER%20👩🏻‍💻;ALWAYS%20LEARNING%20NEW%20THINGS&;" />
 
   </a>
 </p>
 
-## Contribution 
 
-<p align="center" ><a href="https://github.com/VishalValvi-83"><img src="contributions.svg">
-</a></p>
+## Recent Projects ✍🏻
+
+- [Movie Website](https://github.com/VishalValvi-83/react-movie-app)
+- [Blog App](https://github.com/VishalValvi-83/blog-app)
+- [E-Book Store](https://github.com/VishalValvi-83/e-book-store)
+- [Personal Finnace Tracker React App](https://github.com/VishalValvi-83/Expense-tracker-application)
+- [Task Manager](https://github.com/VishalValvi-83/todolist-app)
+- [Salon Website](https://github.com/VishalValvi-83/todolist-app)
+- [Paytm clone](https://github.com/VishalValvi-83/Paytm-Clone)
+- [Google Meeting UI Design](https://github.com/VishalValvi-83/Paytm-Clone)
+- [Furniture Shop Configurable UI](https://github.com/VishalValvi-83/configurableui-app)
+- [Nursery Plant website](https://github.com/VishalValvi-83/evergreen-nursery-plants)
+- [News App](https://github.com/VishalValvi-83/News-App)
+- [Age Calculator](https://github.com/VishalValvi-83/Age-calculator)
+- [SGPA to %](https://github.com/VishalValvi-83/SGPA-converter)
 
 <br>
-
-<p align="center"> 
-░▒▓▆▅▃▂▁𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬 C𝐨𝐮𝐧𝐭▁▂▃▅▆▓▒░<br><br>
-  <img src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&theme=shadow_blue&layout=compact"width="50%"/> 
 </p>  
@@ -25,12 +33,26 @@
 
 <p align="center">
   <a href="https://github.com/VishalValvi-83?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VishalValvi-83&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@VishalValvi-83's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VishalValvi-83&theme=transparent&
+    show_icons=true&
+    theme=blue-green&
+    icon_color=00b3ff&count_private=true&hide_border=true&
+    title_color=00b3ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@VishalValvi-83's github-readme-stats">
   </a>
   <a href="https://github.com/VishalValvi-83?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@VishalValvi-83's github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=transparent&
+    theme=blue-green&
+    hide_border=true&
+    title_color=00b3ff&
+    date_format=M%20j%5B%2C%20Y%5D"
+     width="45%" alt="@VishalValvi-83's github-readme-streak-stats"/>
   </a>
 </p>
+
+## Contribution 
+
+<p align="center" ><a href="https://github.com/VishalValvi-83"><img src="contributions.svg">
+</a></p>
 
 ---
 
@@ -96,17 +118,6 @@
 
 </div>
 
-## Recent Projects ✍🏻
-
-- [Movie Website](https://github.com/VishalValvi-83/react-movie-app)
-- [Blog App](https://github.com/VishalValvi-83/blog-app)
-- [E-Book Store](https://github.com/VishalValvi-83/e-book-store)
-- [Personal Finnace Tracker React App](https://github.com/VishalValvi-83/Expense-tracker-application)
-- [Task Manager](https://github.com/VishalValvi-83/todolist-app)
-- [Salon Website](https://github.com/VishalValvi-83/todolist-app)
-- [Paytm clone](https://github.com/VishalValvi-83/Paytm-Clone)
-- [Google Meeting UI Design](https://github.com/VishalValvi-83/Paytm-Clone)
-- [Furniture Shop Configurable UI](https://github.com/VishalValvi-83/configurableui-app)
-- [Nursery Plant website](https://github.com/VishalValvi-83/evergreen-nursery-plants)
-- [News App](https://github.com/VishalValvi-83/News-App)
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+</p>
