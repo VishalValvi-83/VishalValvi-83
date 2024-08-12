@@ -1,5 +1,3 @@
-<br>
-<br>
 <p align="center">
   <a href="https://github.com/VishalValvi-83/readme-typing-svg">
     <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;PROGRAMMER;CURRENTLY%20AND%20ALWAYS%20LEARNING%20NEW%20THINGS&font=Righteous%20Code&center=true&width=550&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /> -->
@@ -14,21 +12,16 @@
 </a></p>
 
 <br>
-<br>
 
 <p align="center"> 
 ░▒▓▆▅▃▂▁𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬 C𝐨𝐮𝐧𝐭▁▂▃▅▆▓▒░<br><br>
   <img src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
-<br>
 <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&theme=shadow_blue&layout=compact"width="50%"/> 
 </p>  
 
-
-
-### <p align="center">Stats</p>
 
 <p align="center">
   <a href="https://github.com/VishalValvi-83?tab=repositories">
@@ -38,7 +31,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@VishalValvi-83's github-readme-streak-stats">
   </a>
 </p>
-<br/>
+
+---
+
+### <p align="center">╚═★ 𝐶𝑂𝑁𝑁𝐸𝐶𝑇 𝑊𝐼𝑇𝐻 𝑀𝐸 ★═╝</p>
+<p align="center">
+<a href="https://fb.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://twitter.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/v.i.s.h.a.l__83" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/mr-vishal-valvi-b325522a7/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:vishalvalvi2529@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+</p>
 
 
 ---
@@ -46,16 +49,12 @@
 ### <p align="center">╚═★ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸--𝐹𝑅𝐴𝑀𝐸𝑊𝑂𝑅𝐾--𝑇𝑂𝑂𝐿 ★═╝</p>
 
 
-<p align="center">
+<p>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwindcss" width="40" height="40" /></a>
-  
-</p>
-
-<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
@@ -69,7 +68,7 @@
 
 
 ---
-<div align="center">
+<div >
 
 #### <i>DESIGNING TOOL</i>
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
@@ -97,16 +96,17 @@
 
 </div>
 
-----
+## Recent Projects ✍🏻
 
-### <p align="center">╚═★ 𝐶𝑂𝑁𝑁𝐸𝐶𝑇 𝑊𝐼𝑇𝐻 𝑀𝐸 ★═╝</p>
-<p align="center">
-<a href="https://fb.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://twitter.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/v.i.s.h.a.l__83" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/mr-vishal-valvi-b325522a7/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="mailto:vishalvalvi2529@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
-</p>
-
-
+- [Movie Website](https://github.com/VishalValvi-83/react-movie-app)
+- [Blog App](https://github.com/VishalValvi-83/blog-app)
+- [E-Book Store](https://github.com/VishalValvi-83/e-book-store)
+- [Personal Finnace Tracker React App](https://github.com/VishalValvi-83/Expense-tracker-application)
+- [Task Manager](https://github.com/VishalValvi-83/todolist-app)
+- [Salon Website](https://github.com/VishalValvi-83/todolist-app)
+- [Paytm clone](https://github.com/VishalValvi-83/Paytm-Clone)
+- [Google Meeting UI Design](https://github.com/VishalValvi-83/Paytm-Clone)
+- [Furniture Shop Configurable UI](https://github.com/VishalValvi-83/configurableui-app)
+- [Nursery Plant website](https://github.com/VishalValvi-83/evergreen-nursery-plants)
+- [News App](https://github.com/VishalValvi-83/News-App)
 
