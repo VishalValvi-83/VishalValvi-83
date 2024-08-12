@@ -33,20 +33,9 @@
 
 <p align="center">
   <a href="https://github.com/VishalValvi-83?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VishalValvi-83&theme=transparent&
-    show_icons=true&
-    theme=blue-green&
-    icon_color=00b3ff&count_private=true&hide_border=true&
-    title_color=00b3ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@VishalValvi-83's github-readme-stats">
-  </a>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VishalValvi-83&theme=transparent&show_icons=true&icon_color=00b3ff&count_private=true&hide_border=true&title_color=00b3ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@VishalValvi-83's github-readme-stats"></a>
   <a href="https://github.com/VishalValvi-83?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=transparent&
-    theme=blue-green&
-    hide_border=true&
-    title_color=00b3ff&
-    date_format=M%20j%5B%2C%20Y%5D"
-     width="45%" alt="@VishalValvi-83's github-readme-streak-stats"/>
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=transparent&hide_border=true&title_color=00b3ff&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@VishalValvi-83's github-readme-streak-stats"/></a>
 </p>
 
 ## Contribution 
@@ -119,5 +108,5 @@
 </div>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=footer&reversal=false"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=footer&reversal=false"/>
 </p>
