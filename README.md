@@ -1,12 +1,12 @@
  𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬 C𝐨𝐮𝐧𝐭  <img height="15px" src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
 
-<p style="background-image: url('https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=header&reversal=false'); background-repeat: no-repeat;" align="center">
-  <a  href="https://github.com/VishalValvi-83/readme-typing-svg">
+<div align="center">
+  <a  href="https://github.com/VishalValvi-83">
     <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;PROGRAMMER;CURRENTLY%20AND%20ALWAYS%20LEARNING%20NEW%20THINGS&font=Righteous%20Code&center=true&width=550&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /> -->
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Bona+Nova+SC&size=25&center=true&vCenter=true&color=FFF&width=550&height=200&duration=4000&pause=1050&lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER%20👩🏻‍💻;PROGRAMMER%20👩🏻‍💻;ALWAYS%20LEARNING%20NEW%20THINGS&;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Bona+Nova+SC&size=25&center=true&vCenter=true&&color=FF7E7E&background=0A4965&width=550&height=100&duration=4000&pause=1050&lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER%20👩🏻‍💻;PROGRAMMER%20👩🏻‍💻;ALWAYS%20LEARNING%20NEW%20THINGS&;" />
 
   </a>
-</p>
+</div>
 
 
 ## Recent Projects ✍🏻
@@ -119,5 +119,5 @@
 </div>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=footer&reversal=false"/>
 </p>
