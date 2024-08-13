@@ -22,8 +22,9 @@
 - [Furniture Shop Configurable UI](https://github.com/VishalValvi-83/configurableui-app)
 - [Nursery Plant website](https://github.com/VishalValvi-83/evergreen-nursery-plants)
 - [News App](https://github.com/VishalValvi-83/News-App)
+- [Calculator using Python](https://github.com/VishalValvi-83/python-calculator)
 - [Age Calculator](https://github.com/VishalValvi-83/Age-calculator)
-- [SGPA to %](https://github.com/VishalValvi-83/SGPA-converter)
+- [SGPA to Percentage(%) Convertor using JavaScript](https://github.com/VishalValvi-83/SGPA-converter)
 
 <br>
 <p align="center">
