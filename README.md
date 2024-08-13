@@ -1,4 +1,6 @@
- 𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬 C𝐨𝐮𝐧𝐭  <img height="15px" src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
+<p align="left">
+ Profile Views <br> <img height="15px" src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
+</p>
 
 <div align="center">
   <a  href="https://github.com/VishalValvi-83">
