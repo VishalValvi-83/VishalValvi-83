@@ -20,7 +20,7 @@
 - [Task Manager](https://github.com/VishalValvi-83/todolist-app)
 - [Salon Website](https://github.com/VishalValvi-83/Hair-Salon-website)
 - [Paytm clone](https://github.com/VishalValvi-83/Paytm-Clone)
-- [Google Meeting UI Design](https://github.com/VishalValvi-83/Paytm-Clone)
+- [Google Meeting UI Design](https://github.com/VishalValvi-83/google-meet)
 - [Furniture Shop Configurable UI](https://github.com/VishalValvi-83/configurableui-app)
 - [Nursery Plant website](https://github.com/VishalValvi-83/evergreen-nursery-plants)
 - [News App](https://github.com/VishalValvi-83/News-App)
