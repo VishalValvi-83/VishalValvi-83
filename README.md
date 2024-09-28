@@ -13,12 +13,12 @@
 
 ## Recent Projects ✍🏻
 
+- [Gemini Chatbot](https://github.com/VishalValvi-83/VGemini-clone)
 - [Movie Website](https://github.com/VishalValvi-83/react-movie-app)
 - [Blog App](https://github.com/VishalValvi-83/blog-app)
 - [E-Book Store](https://github.com/VishalValvi-83/e-book-store)
 - [Personal Finnace Tracker React App](https://github.com/VishalValvi-83/Expense-tracker-application)
 - [Task Manager](https://github.com/VishalValvi-83/todolist-app)
-- [Gemini Chatbot](https://github.com/VishalValvi-83/VGemini-clone)
 - [Salon Website](https://github.com/VishalValvi-83/Hair-Salon-website)
 - [Paytm clone](https://github.com/VishalValvi-83/Paytm-Clone)
 - [Google Meeting UI Design](https://github.com/VishalValvi-83/google-meet)
