@@ -5,7 +5,7 @@
 <div align="center">
   <a  href="https://github.com/VishalValvi-83">
     <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;PROGRAMMER;CURRENTLY%20AND%20ALWAYS%20LEARNING%20NEW%20THINGS&font=Righteous%20Code&center=true&width=550&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /> -->
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Bona+Nova+SC&size=25&center=true&vCenter=true&&color=FF7E7E&background=0A4965&width=550&height=100&duration=4000&pause=1050&lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER%20👩🏻‍💻;PROGRAMMER%20👩🏻‍💻;ALWAYS%20LEARNING%20NEW%20THINGS&;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Bona+Nova+SC&size=25&center=true&vCenter=true&&color=FF7E7E&background=0A4965&width=550&height=100&duration=4000&pause=1050&lines=Hi,%20I'm%20Vishal%20Valvi;COMPUTER%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER%20👨‍💻;PROGRAMMER%20👨‍💻;ALWAYS%20LEARNING%20NEW%20THINGS&;" />
 
   </a>
 </div>
