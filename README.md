@@ -1,6 +1,8 @@
 <p align="left">
  Profile Views <br> <img height="15px" src="https://profile-counter.glitch.me/VishalValvi-83/count.svg"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalValvi-83&label=Profile%20views&color=0e75b6&style=flat" alt="VishalValvi-83" /> </p>
+
 
 <div align="center">
   <a  href="https://github.com/VishalValvi-83">
