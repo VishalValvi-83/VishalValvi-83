@@ -112,7 +112,7 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### <i>DATABAE</i>
+#### <i>DATABASE</i>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=mysql)
 ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
