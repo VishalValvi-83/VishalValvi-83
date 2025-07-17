@@ -15,6 +15,7 @@
 
 ## Recent Projects ✍🏻
 
+- [Slinky - URL Shortener](https://github.com/VishalValvi-83/slinky-url-shortener)
 - [Gemini Chatbot](https://github.com/VishalValvi-83/VGemini-clone)
 - [Movie Website](https://github.com/VishalValvi-83/react-movie-app)
 - [Blog App](https://github.com/VishalValvi-83/blog-app)
