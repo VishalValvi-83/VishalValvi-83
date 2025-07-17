@@ -54,10 +54,9 @@
 
 ### <p align="center">╚═★ 𝐶𝑂𝑁𝑁𝐸𝐶𝑇 𝑊𝐼𝑇𝐻 𝑀𝐸 ★═╝</p>
 <p align="center">
-<a href="https://fb.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://twitter.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" style="vertical-align:center" /></a>
 <a href="https://instagram.com/v.i.s.h.a.l__83" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/mr-vishal-valvi-b325522a7/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/vishal-valvi-b325522a7/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:vishalvalvi2529@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
