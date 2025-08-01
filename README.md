@@ -14,7 +14,7 @@
 
 
 ## Recent Projects ✍🏻
-
+- [Attendify - Student Attendance Management System](https://github.com/VishalValvi-83/Attendify-student-attendance-management-system)
 - [Slinky - URL Shortener](https://github.com/VishalValvi-83/slinky-url-shortener)
 - [Gemini Chatbot](https://github.com/VishalValvi-83/VGemini-clone)
 - [Movie Website](https://github.com/VishalValvi-83/react-movie-app)
