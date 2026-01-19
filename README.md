@@ -35,17 +35,32 @@
 - [SGPA to Percentage(%) Convertor using JavaScript](https://github.com/VishalValvi-83/SGPA-converter)
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&theme=shadow_blue&layout=compact"width="50%"/> 
-</p>  
+</p>   -->
 
 
-<p align="center">
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalValvi-83&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<!-- <p align="center">
   <a href="https://github.com/VishalValvi-83?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VishalValvi-83&theme=transparent&show_icons=true&icon_color=00b3ff&count_private=true&hide_border=true&title_color=00b3ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@VishalValvi-83's github-readme-stats"></a>
-  <a href="https://github.com/VishalValvi-83?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=transparent&hide_border=true&title_color=00b3ff&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@VishalValvi-83's github-readme-streak-stats"/></a>
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=VishalValvi-83&theme=transparent&show_icons=true&icon_color=00b3ff&count_private=true&hide_border=true&title_color=00b3ff&text_color=ffffff" width="48%" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/VishalValvi-83">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=transparent&hide_border=true&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" width="48%" alt="GitHub Streak">
+  </a>
+</p> -->
 
 ## Contribution 
 
@@ -129,6 +144,7 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=footer&reversal=false"/>
 </p>
+
 
 
 
