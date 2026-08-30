@@ -43,12 +43,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalValvi-83&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=VishalValvi-83&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=github_dark)
 </div>
 
 <!-- <p align="center">
