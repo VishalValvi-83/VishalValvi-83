@@ -45,10 +45,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+ <p align="center" >
+  <a href="https://github.com/VishalValvi-83">
+    <img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=VishalValvi-83&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+  </a>
+  <img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark" />
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark) -->
+ </p>
  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=VishalValvi-83&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=github_dark)
+ 
+<img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://github-readme-stats-fast.vercel.app/api/streak?username=VishalValvi-83&theme=github_dark" />
+<img alt="Vishal's GitHub stats" width="50%" height="200px" margin="0" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=github_dark" />
 
 </div>
 
