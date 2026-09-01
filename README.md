@@ -35,89 +35,68 @@
 - [Nursery Plant website](https://github.com/VishalValvi-83/evergreen-nursery-plants)
 
 <br>
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalValvi-83&theme=shadow_blue&layout=compact"width="50%"/> 
-</p>   -->
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
-
-
-## 📊 GitHub Stats
-
-<div align="center">
- <p align="center" >
-  <a href="https://github.com/VishalValvi-83">
-    <img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=VishalValvi-83&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
-  </a>
-  <img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark" />
-<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark) -->
- </p>
- 
- 
-<img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://github-readme-stats-fast.vercel.app/api/streak?username=VishalValvi-83&theme=github_dark" />
-<img alt="Vishal's GitHub stats" width="50%" height="200px" margin="0" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=github_dark" />
-
-</div>
-
-<!-- <p align="center">
-  <a href="https://github.com/VishalValvi-83?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=VishalValvi-83&theme=transparent&show_icons=true&icon_color=00b3ff&count_private=true&hide_border=true&title_color=00b3ff&text_color=ffffff" width="48%" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/VishalValvi-83">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalValvi-83&theme=transparent&hide_border=true&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" width="48%" alt="GitHub Streak">
-  </a>
-</p> -->
-
-## Contribution 
-
-<p align="center" ><a href="https://github.com/VishalValvi-83"><img src="contributions.svg">
-</a></p>
-
----
 
 ### <p align="center">╚═★ 𝐶𝑂𝑁𝑁𝐸𝐶𝑇 𝑊𝐼𝑇𝐻 𝑀𝐸 ★═╝</p>
 <p align="center">
-<a href="https://twitter.com/vishalvlv" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" style="vertical-align:center" /></a>
-<a href="https://instagram.com/v.i.s.h.a.l__83" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/vishal-valvi-b325522a7/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
-<a href="mailto:vishalvalvi2529@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+  <table align="center">
+    <tr>
+       <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/vishalvalvi/" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+        <td align="center" width="80">          
+        <a href="mailto:vishalvalvi2529@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+        <td align="center" width="80">          
+        <a href="https://instagram.com/v.i.s.h.a.l__83" target="_blank">
+          <img src="https://gist.githubusercontent.com/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" width="80"> 
+        <a href="https://wa.me/9022413979" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://t.me/@@Vvv4877" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
+        </a>
+      </td>    
+      <td align="center" width="80">
+        <a href="https://www.facebook.com/itzz.vishal.vlv.07" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" width="48" height="48" alt="Facebook"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://messenger.com/t/itzz.vishal.vlv.07" target="_blank">
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/messenger.svg" width="48" height="48" alt="Messenger"/>
+        </a>
+      </td>    
+    </tr>
+  </table>
 </p>
 
 
----
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
 ### <p align="center">╚═★ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸--𝐹𝑅𝐴𝑀𝐸𝑊𝑂𝑅𝐾--𝑇𝑂𝑂𝐿 ★═╝</p>
-
-
-<!-- <p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"  height="45" />
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="40" height="40" />
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"   alt="photoshop" width="40" height="40"/>
-          
-     
-          
-</p> -->
  
 ![imge](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,git,github,express,mongodb,vercel,postman,vscode,vite,ts,angular,java,mysql,firebase,materialui,eclipse,bootstrap,spring,redux)
 
----
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
 <div >
 
 #### <i>DESIGNING TOOL</i>
@@ -147,11 +126,37 @@
 
 </div>
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+ <p align="center" >
+  <a href="https://github.com/VishalValvi-83">
+    <img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=VishalValvi-83&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+  </a>
+  <img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark" />
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VishalValvi-83&show_icons=true&theme=github_dark) -->
+ </p>
+ 
+ 
+<img alt="Vishal's GitHub stats" width="49%" height="210px" margin="0" src="https://github-readme-stats-fast.vercel.app/api/streak?username=VishalValvi-83&theme=github_dark" />
+<img alt="Vishal's GitHub stats" width="50%" height="200px" margin="0" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VishalValvi-83&layout=compact&theme=github_dark" />
+
+</div>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+## Contribution 
+
+<p align="center" ><a href="https://github.com/VishalValvi-83"><img src="contributions.svg">
+</a></p>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&section=footer&reversal=false"/>
 </p>
-
-
-
-
-
